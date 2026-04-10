@@ -1,0 +1,5 @@
+n1=int(input("Enter the value N1: "))
+n2=int(input("Enter the value N2: "))
+n3=int(input("Enter the value N3: "))
+n4=int(input("Enter the value N4: "))
+print(f"The product of the four numbers is: {n1*n2*n3*n4}")
